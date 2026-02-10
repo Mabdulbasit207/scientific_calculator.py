@@ -1,3 +1,5 @@
+https://www.google.com/imgres?q=give%20me%20a%20unique%20image%20of%20scientific%20calculator%20for%20github%20repository&imgurl=https%3A%2F%2Fcodewithcurious.com%2Fwp-content%2Fuploads%2F2023%2F01%2Fthumbnail-5-1024x576.png.webp&imgrefurl=https%3A%2F%2Fcodewithcurious.com%2Fprojects%2Fscientific-calculator-using-python%2F&docid=Nb-08dsMAata6M&tbnid=VFJmJTX7KOwuYM&vet=12ahUKEwjlkPKHuM6SAxUvNfsDHcVODh8QM3oECHMQAA..i&w=1024&h=576&hcb=2&ved=2ahUKEwjlkPKHuM6SAxUvNfsDHcVODh8QM3oECHMQAA
+
 A simple command-line calculator built with Python using object-oriented programming.
 It performs basic arithmetic operations based on user input.
 
